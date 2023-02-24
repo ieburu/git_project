@@ -1,1 +1,9 @@
-This is to understand git staging vs git commmiting	
+This is a list of devops tools:
+Docker
+Terraform
+Maven
+git
+Ansible
+sonarqube
+Nexus
+Jenkins
